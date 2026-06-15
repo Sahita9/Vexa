@@ -1,0 +1,4 @@
+.env
+vexa-env/
+__pycache__/
+*.pyc
